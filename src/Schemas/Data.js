@@ -8,12 +8,12 @@ export const Data = {
     image: "images/cv.jpg",
   },
   aboutMe: {
-    label: "Profile",
+    label: "Perfil",
     description:
       "Programmer Analyst, trained to develop computer applications in various technologies and multiple programming languages, applying agile development methodologies, including identification of needs and system designs based on development models..",
   },
   skills: {
-    technicalLabel: "Tecnologi",
+    technicalLabel: "Tecnologías",
     softLabel: "Skills",
     technicalSkills: [
       "React",
@@ -46,7 +46,7 @@ export const Data = {
         className: "bxl-linkedin-square",
       },
       {
-        label: "Maaato",
+        label: "Saepulloh",
         name: "github",
         url: "https://github.com/eful92",
         className: "bxl-github",
@@ -66,18 +66,20 @@ export const Data = {
         period: "Oct. 2017 - Oct. 2019",
         company: "PT SUMBER ALFARIA TIRJAYA.TBK",
         description: [
-          "Desarrollo y mejora continua de microservicios REST en Java y Node.js(JS/TS).",
-          "Desarrollo y mejora continua de PWA en las tecnologías Angular, Ionic y Cordova.",
-          "Canalización CI/CD con Bitbucket, Jenkins y AWS como infraestructura."
+        "Taking care of Administration of Exit.",
+        "Goods Taking care of Returned.", 
+        "Goods from Stores Taking care of.",
+        "Allocation of Goods Suppliers.",
+        "Taking care of Shop Order Requests.",
         ],
       },
       {
-        title: "FULL-STACK DEVELOPER",
-        period: "Oct. 2019 - Oct. 2021",
+        title: "Volunteer Covid-19",
+        period: "Oct. 2020 - Oct. 2021",
         company: "Altiuz",
         description: [
-          "Desarrollo de Web Services REST en Java y Nodejs(JS/TS) acompañado de diferentes motores de BD como Mysql, Oracle, MariaDB, MongoDB e IBM API Connect y 3scale como API Gateway.",
-          "Desarrollo de Frontend y Mobile con tecnologías como Angular, React, React Native, Ionic y Cordova.",
+          "Serve the administration of Covid-19 vaccination.",
+          "Inputting participant data for the Covid-19 vaccination.",
         ],
       },
     ],
