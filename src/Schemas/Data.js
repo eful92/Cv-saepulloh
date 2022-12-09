@@ -1,11 +1,11 @@
 export const Data = {
   profile: {
-    name: "Matias Lagos",
-    ocupation: "FullStack Software Developer",
-    location: "Santiago, Chile",
-    email: "lagos.matias25@gmail.com",
-    telephone: "+56 971999705",
-    image: "images/90208122_10222269974249078_3631065450546200576_n.jpg",
+    name: "SAEPULLOH",
+    ocupation: "Fresh Graduate Software Developer",
+    location: "Karawang, Indonesia",
+    email: "saepulloh6011@gmail.com",
+    telephone: "081386284373",
+    image: "images/cv.jpg",
   },
   aboutMe: {
     label: "Perfil",
