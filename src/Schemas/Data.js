@@ -8,55 +8,53 @@ export const Data = {
     image: "images/cv.jpg",
   },
   aboutMe: {
-    label: "Perfil",
+    label: "Profile",
     description:
-      "Analista Programador, capacitado para desarrollar aplicaciones informáticas en diversas tecnologías y múltiples lenguajes de programación, aplicando metodologías ágiles de desarrollo, incluyendo identificación de necesidades y diseños de sistemas basados en modelos de desarrollo.",
+      "Programmer Analyst, trained to develop computer applications in various technologies and multiple programming languages, applying agile development methodologies, including identification of needs and system designs based on development models..",
   },
   skills: {
-    technicalLabel: "Tecnologías",
+    technicalLabel: "Tecnologi",
     softLabel: "Skills",
     technicalSkills: [
-      "Angular",
       "React",
       "Java",
       "Nodejs",
-      "Spring Boot",
       "Nestjs",
-      "APIM",
       "SQL",
       "Git",
     ],
     softSkills: [
-      "Capacidad de análisis",
-      "Resolución de Problemas",
-      "Pensamiento Crítico",
-      "Trabajo en equipo",
-      "Comunicación",
-      "Proactividad",
-      "Creatividad",
-      "Autodidacta",
-      "Mentoria",
+      "Capacity analysis",
+      "problem solving",
+      "Critical thinking",
+      "Team work",
+      "Communication",
+      "proactive",
+      "Creativity",
+      "Self-taught",
+      "Mentoring",
+
     ],
   },
   socialMedia: {
     label: "SOCIAL",
     social: [
       {
-        label: "Maaato",
+        label: "Saepulloh",
         name: "linkedin",
-        url: "https://www.linkedin.com/in/matias-alfonso-lagos-gajardo",
+        url: "https://www.linkedin.com/in/saepulloh-75aa32259",
         className: "bxl-linkedin-square",
       },
       {
         label: "Maaato",
         name: "github",
-        url: "https://github.com/Maaato",
+        url: "https://github.com/eful92",
         className: "bxl-github",
       },
       {
-        label: "Maaato",
+        label: "Saepulloh",
         name: "twiiter",
-        url: "https://twitter.com/I_Maaato",
+        url: "https://twitter.com/eful212",
         className: "bxl-twitter",
       },
     ],
@@ -64,9 +62,9 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "FULL-STACK DEVELOPER",
-        period: "Oct. 2021 - Actualidad",
-        company: "Banco Ripley",
+        title: "Administrator Issuing",
+        period: "Oct. 2017 - Oct. 2019",
+        company: "PT SUMBER ALFARIA TIRJAYA.TBK",
         description: [
           "Desarrollo y mejora continua de microservicios REST en Java y Node.js(JS/TS).",
           "Desarrollo y mejora continua de PWA en las tecnologías Angular, Ionic y Cordova.",
