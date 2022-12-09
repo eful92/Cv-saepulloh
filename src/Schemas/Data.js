@@ -5,7 +5,7 @@ export const Data = {
     location: "Karawang, Indonesia",
     email: "saepulloh6011@gmail.com",
     telephone: "081386284373",
-    image: "images/cv.jpg",
+    image: "public/cv.jpg",
   },
   aboutMe: {
     label: "Perfil",
