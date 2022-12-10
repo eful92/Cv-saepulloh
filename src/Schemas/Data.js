@@ -93,7 +93,7 @@ export const Data = {
     proyects: [
       {
         name: "Skill Up 0.1",
-        company: "Karawang Indonesai",
+        company: "Karawang Indonesia",
         period: "Nov. 2019 - End. 2019",
         description: [
           
