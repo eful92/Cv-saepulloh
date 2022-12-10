@@ -8,12 +8,12 @@ export const Data = {
     image: "Pages/cv.jpg",
   },
   aboutMe: {
-    label: "Perfil",
+    label: "Profile",
     description:
       "Programmer Analyst, trained to develop computer applications in various technologies and multiple programming languages, applying agile development methodologies, including identification of needs and system designs based on development models..",
   },
   skills: {
-    technicalLabel: "Tecnologías",
+    technicalLabel: "Tecnical Skill",
     softLabel: "Skills",
     technicalSkills: [
       "React",
@@ -63,19 +63,19 @@ export const Data = {
     works: [
       {
         title: "Administrator Issuing",
-        period: "Oct. 2017 - Oct. 2019",
+        period: "Oct. 2017 - End. 2019",
         company: "PT SUMBER ALFARIA TIRJAYA.TBK",
         description: [
-        "Taking care of Administration of Exit.",
-        "Goods Taking care of Returned.", 
-        "Goods from Stores Taking care of.",
-        "Allocation of Goods Suppliers.",
-        "Taking care of Shop Order Requests.",
+        "Taking Care Of Administration Of Exit.",
+        "Goods Taking Care Of Returned.", 
+        "Goods From Stores Taking Care Of.",
+        "Allocation Of Goods Suppliers.",
+        "Taking Care Of Shop Order Requests.",
         ],
       },
       {
         title: "Volunteer Covid-19",
-        period: "Oct. 2020 - Oct. 2021",
+        period: "Oct. 2020 - End. 2021",
         company: "Altiuz",
         description: [
           "Serve the administration of Covid-19 vaccination.",
