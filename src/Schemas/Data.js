@@ -76,7 +76,7 @@ export const Data = {
       {
         title: "Volunteer Covid-19",
         period: "Oct. 2020 - End. 2021",
-        company: "Altiuz",
+        company: "Karawang Indonesia",
         description: [
           "Serve the administration of Covid-19 vaccination.",
           "Inputting participant data for the Covid-19 vaccination.",
